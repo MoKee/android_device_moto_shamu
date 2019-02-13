@@ -93,7 +93,7 @@ PRODUCT_PACKAGES += \
 
 # Trust
 PRODUCT_PACKAGES += \
-    vendor.lineage.trust@1.0-service
+    vendor.mokee.trust@1.0-service
 
 # USB
 PRODUCT_PACKAGES += \

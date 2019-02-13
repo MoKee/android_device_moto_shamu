@@ -128,7 +128,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Vendor security patch level
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.lineage.build.vendor_security_patch=2017-10-01
+    ro.mk.build.vendor_security_patch=2017-10-01
 
 # Wi-Fi calling
 PRODUCT_PROPERTY_OVERRIDES += \

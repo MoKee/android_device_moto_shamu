@@ -59,5 +59,5 @@ enum {
 
 #define UNUSED(x) UNUSED_ ## x __attribute__((__unused__))
 
-// Custom Lineage hints
+// Custom MoKee hints
 const static power_hint_t POWER_HINT_SET_PROFILE = (power_hint_t)0x00000111;
