@@ -182,10 +182,6 @@ vendor/lib/libqomx_jpegdec.so
 vendor/lib/libqomx_jpegenc.so
 
 # Camera firmware
-etc/firmware/cpp_firmware_v1_1_1.fw
-etc/firmware/cpp_firmware_v1_1_6.fw
-etc/firmware/cpp_firmware_v1_2_0.fw
-etc/firmware/cpp_firmware_v1_6_0.fw
 etc/firmware/cpp_firmware_v1_8_0.fw
 
 # Capsense firmware
@@ -355,11 +351,6 @@ vendor/lib/libTimeService.so
 # Touch firmware
 vendor/firmware/atmel-a432-14061601-0102aa-shamu-p1.tdat
 vendor/firmware/atmel-a432-14103001-0103aa-shamu.tdat
-
-# USB
-bin/port-bridge
-bin/usbhub
-bin/usbhub_init
 
 # VZW
 -app/VZWAPNLib/VZWAPNLib.apk:app/VZWAPNLib/VZWAPNLib.apk;PRESIGNED
